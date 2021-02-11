@@ -2,7 +2,7 @@
 
 **About**:\
 17 years old\
-Programming for 7+ years
+Programming for ~8 years
 
 ![supercipGithub_stat](https://github-readme-stats.vercel.app/api?username=Satomatic&hide=issues,stars&show_icons=true)
 
